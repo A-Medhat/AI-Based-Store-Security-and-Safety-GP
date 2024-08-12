@@ -32,7 +32,6 @@ This project focuses on creating a comprehensive security and safety system for 
 
 
 
-
 ## Screenshots
 
 ![IMG-20240627-WA0015](https://github.com/user-attachments/assets/e05359be-4544-419c-b189-14f04fe86cfd)
